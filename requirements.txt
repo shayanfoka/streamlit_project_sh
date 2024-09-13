@@ -1,9 +1,9 @@
 streamlit
 pandas
 plotly
-pandas-profiling
+pandas-profiling==3.2.0  # Adjust to a known working version
 streamlit-pandas-profiling
-numpy
+numpy==1.24.3
 matplotlib
 seaborn
 scikit-learn
@@ -12,6 +12,7 @@ emoji
 wordcloud
 nlpaug
 sentence-transformers
-pydantic
-visions
-numba
+pydantic==1.10.7
+visions==0.7.4  
+numba==0.56.4  
+
