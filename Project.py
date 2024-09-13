@@ -37,7 +37,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.manifold import TSNE
 from sklearn.decomposition import PCA
 
-
+nltk.download()
 
 def delete_columns(df):
     """
