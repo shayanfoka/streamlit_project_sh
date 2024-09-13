@@ -1,7 +1,7 @@
 streamlit
-pandas==1.5.3
+pandas
 plotly
-pandas-profiling==3.2.0
+pandas-profiling
 streamlit-pandas-profiling
 numpy
 matplotlib
