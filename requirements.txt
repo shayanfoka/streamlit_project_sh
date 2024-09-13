@@ -1,9 +1,9 @@
 streamlit
 pandas
 plotly
-pandas-profiling==3.2.0  # Adjust to a known working version
+pandas-profiling==3.2.0 
 streamlit-pandas-profiling
-numpy==1.24.3
+numpy<1.24
 matplotlib
 seaborn
 scikit-learn
