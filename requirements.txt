@@ -1,7 +1,7 @@
 streamlit
-pandas
+pandas==1.5.3
 plotly
-pandas-profiling==3.2.0  # Adjust to a known working version
+pandas-profiling==3.2.0
 streamlit-pandas-profiling
 numpy
 matplotlib
@@ -12,7 +12,6 @@ emoji
 wordcloud
 nlpaug
 sentence-transformers
-pydantic==1.10.7
-visions==0.7.4  
-numba==0.56.4  
-
+pydantic
+visions
+numba
