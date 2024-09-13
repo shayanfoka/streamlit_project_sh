@@ -12,7 +12,7 @@ emoji
 wordcloud
 nlpaug
 sentence-transformers
-pydantic==1.10.7
+pydantic==2.9
 visions==0.7.4  
 numba==0.56.4  
 
